@@ -1,7 +1,4 @@
-# Ignore compiled executables
 *.exe
 a.out
-
-# Ignore object files
 *.o
 *.obj
